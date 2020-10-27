@@ -40,6 +40,11 @@
     "children": [
       "sku-selector",
       "product-quantity",
+      "flex-layout.row#shipping"
+    ]
+  },
+  "flex-layout.row#shipping": {
+    "children": [
       "shipping-simulator"
     ]
   }
