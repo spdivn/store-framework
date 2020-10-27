@@ -1,10 +1,10 @@
 {
   "store.home": { 
     "blocks": [
-      "slider-layout"
+      "slider-layout#home"
     ]
   },
-  "slider-layout#home": {
+  "slider-layout.home": {
     "children": ["image#brand1","image#brand2", "image#brand3","image#brand4","image#brand5","image#brand6"],
   }
 }

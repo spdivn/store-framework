@@ -1,6 +1,6 @@
 {
-    "slider-layout": {
-        "blocks": ["slider-layout#home"],
+    "slider-layout#home": {
+        "blocks": ["slider-layout.home"],
         "props": {
             "autoplay": {
                 "timeout": 7000,
