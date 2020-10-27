@@ -12,7 +12,7 @@
     "children": ["rich-text#mobile"]
   },
   "rich-text#desktop": {
-    "chilnder": ["image#desktop"],
+    "children": ["image#desktop"],
     "props": {
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
       "textPosition": "CENTER",
@@ -20,7 +20,7 @@
     }
   },
   "rich-text#mobile": {
-    "chilnder": ["image#mobile"],
+    "children": ["image#mobile"],
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
       "textPosition": "CENTER",
