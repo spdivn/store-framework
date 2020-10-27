@@ -28,5 +28,11 @@
       "product-price",
       "buy-button"
     ]
+  },
+  "product-price": {
+    "props": {
+      "showSavings": "true",
+      "showListPrice": "true"
+    }
   }
 }
