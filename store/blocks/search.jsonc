@@ -29,7 +29,7 @@
     "children": [
       "flex-layout.col#filter",
       "flex-layout.col#search"
-    ]
+    ] 
   },
   "flex-layout.col#filter": {
     "props": {
