@@ -1,7 +1,16 @@
 {
   "store.home": { 
     "blocks": [
-      
+      "slider-layout#home"
     ]
-  }
+  },
+  "slider-layout#home": {
+    "children": ["info-card#1", "info-card#2"],
+    "props": {
+      "autoplay": {
+        "timeout": 7000,
+        "stopOnHover": true
+      }
+    }
+  },
 }
