@@ -6,13 +6,12 @@
     ]
   },
   "responsive-layout.desktop#desktop": {
-    "children": ["rich-text#desktop"]
+    "children": ["rich-text#desktop","image#desktop"]
   },
   "responsive-layout.mobile#mobile": {
-    "children": ["rich-text#mobile"]
+    "children": ["rich-text#mobile","image#mobile"]
   },
   "rich-text#desktop": {
-    "children": ["image#desktop"],
     "props": {
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
       "textPosition": "CENTER",
@@ -20,7 +19,6 @@
     }
   },
   "rich-text#mobile": {
-    "children": ["image#mobile"],
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
       "textPosition": "CENTER",
